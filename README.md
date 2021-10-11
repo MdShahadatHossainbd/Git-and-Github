@@ -50,6 +50,7 @@ Hello Github!
 
     git checkout [branch name] -> used to switch from one branch to another
     git checkout -b [branch name] ->creates a new branch and also switches to it.
+    git checkout -d [branch name] -> deleted branch.
 
     git merge [branch name] ->merges the specified branch’s history into the current branch.
 
@@ -59,6 +60,7 @@ Hello Github!
     git push [variable name] [branch] ->sends the branch commits to your remote repository.
     git push –all [variable name] ->pushes all branches to your remote repository.
     git push [variable name] :[branch name] ->deletes a branch on your remote repository.
+    git push -u [branch name] -> add branch remote repository.
 
     git pull [Repository Link] ->fetches and merges changes on the remote server to your working directory.
 
