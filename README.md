@@ -71,3 +71,5 @@ Hello Github!
     git stash pop ->restores the most recently stashed files.
     git stash list ->lists all stashed changesets.
     git stash drop ->discards the most recently stashed changeset.
+    
+    q -> quit the terminal.
