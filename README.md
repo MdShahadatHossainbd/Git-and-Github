@@ -24,6 +24,7 @@ Hello Github!
 
     git commit -m “[ Type in the commit message]” ->records or snapshots the file permanently in the version history.
     git commit -a ->commits any files you’ve changed since then.&commits any files you’ve added
+    git commit -am "comment" [add . and comment both, it for modified not new file]
 
     git diff ->shows the file differences which are not yet staged.
     git diff –staged ->differences between the files in the staging area and the latest version present.
