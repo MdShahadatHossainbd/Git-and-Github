@@ -54,6 +54,7 @@ Hello Github!
     git checkout -d [branch name] -> deleted branch.
 
     git merge [branch name] ->merges the specified branch’s history into the current branch.
+    git merge main -> merge main file.
 
     git remote add [variable name] [Remote Server Link] ->used to connect your local repository to the remote server.
 
