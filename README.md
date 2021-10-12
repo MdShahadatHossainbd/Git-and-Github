@@ -49,10 +49,12 @@ Hello Github!
     git branch [branch name] -> creates a new branch.
     git branch -d [branch name] -> deletes the feature branch.
     git branch -m [branch name] -> rename branch.
+    git branch -m [wrong b n] [new b n] -> rename branch.
 
     git checkout [branch name] -> used to switch from one branch to another
     git checkout -b [branch name] ->creates a new branch and also switches to it.
     git checkout -d [branch name] -> deleted branch.
+    git switch [branch name] -> switch from one branch to another.
 
     git merge [branch name] ->merges the specified branch’s history into the current branch.
     git merge main -> merge main file.
