@@ -66,6 +66,8 @@ Hello Github!
     git push –all [variable name] ->pushes all branches to your remote repository.
     git push [variable name] :[branch name] ->deletes a branch on your remote repository.
     git push -u [branch name] -> add branch remote repository.
+    
+    git push --set-upstream origin [branch name (my-new-branch)]
 
     git pull [Repository Link] ->fetches and merges changes on the remote server to your working directory.
 
