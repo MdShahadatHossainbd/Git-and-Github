@@ -50,6 +50,7 @@ Hello Github!
     git branch -d [branch name] -> deletes the feature branch.
     git branch -m [branch name] -> rename branch.
     git branch -m [wrong b n] [new b n] -> rename branch.
+    git branch -v
 
     git checkout [branch name] -> used to switch from one branch to another
     git checkout -b [branch name] ->creates a new branch and also switches to it.
