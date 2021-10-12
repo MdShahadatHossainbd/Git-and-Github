@@ -48,6 +48,7 @@ Hello Github!
     git branch ->lists all the local branches in the current repository.
     git branch [branch name] -> creates a new branch.
     git branch -d [branch name] -> deletes the feature branch.
+    git branch -m [branch name] -> rename branch.
 
     git checkout [branch name] -> used to switch from one branch to another
     git checkout -b [branch name] ->creates a new branch and also switches to it.
